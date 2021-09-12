@@ -1,0 +1,5 @@
+[JunitTest2]INFO:Log4j Sample test
+[JunitTest2]DEBUG:Log4j Sample Debug
+[JunitTest2]WARN:Log4j Sample Warning
+[JunitTest2]ERROR:Log4j Sample Error
+[JunitTest2]FATAL:Log4j Sample Fatal
